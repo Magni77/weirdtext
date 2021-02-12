@@ -1,4 +1,4 @@
-from encoder import EncodedText
+from weird_text.encoder import EncodedText
 
 
 def test_should_decode_encoded_text(decoder):

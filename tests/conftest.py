@@ -1,7 +1,7 @@
 import pytest
 
-from decoder import Decoder
-from encoder import Encoder
+from weird_text.decoder import Decoder
+from weird_text.encoder import Encoder
 from weird_text import WeirdText
 
 

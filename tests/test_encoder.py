@@ -1,6 +1,6 @@
 import pytest
 
-from encoder import EncodedText
+from weird_text.encoder import EncodedText
 
 
 @pytest.mark.parametrize(

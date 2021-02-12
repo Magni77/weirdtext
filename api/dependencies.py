@@ -1,6 +1,4 @@
-from decoder import Decoder
-from encoder import Encoder
-from weird_text import WeirdText
+from weird_text import WeirdText, Encoder, Decoder
 
 
 def weird_text_service():
